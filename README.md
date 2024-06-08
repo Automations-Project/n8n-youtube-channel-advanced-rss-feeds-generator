@@ -1,6 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/Template%20Version-V0.06-pink) ![Static Badge](https://img.shields.io/badge/Node-Commentpicker-080808) ![Static Badge](https://img.shields.io/badge/Node-FormTrigger-080808) ![Static Badge](https://img.shields.io/badge/Node-HttpRequest-080808) ![Static Badge](https://img.shields.io/badge/Node-Aggregate-080808) ![Static Badge](https://img.shields.io/badge/Node-RespondToWebhook-080808) ![Static Badge](https://img.shields.io/badge/Node-Code-080808)
 ![Static Badge](https://cdn.statically.io/gh/Automations-Project/n8n-templates/main/src/img/covers/n8n-youtube-channel-advanced-rss-feeds-generator/idf8yBeP5c.png)
-
 # YouTube Channel Advanced RSS Feeds Generator
 
 [![Video Overview of template YouTube Channel Advanced RSS Feeds Generator](https://img.youtube.com/vi_webp/EtzJmrmCiUY/maxresdefault.webp?s)](https://youtu.be/EtzJmrmCiUY)
